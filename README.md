@@ -7,4 +7,4 @@ I also want to implement filters for different restrictions like halal, kosher, 
 Under that map that'll maybe take up like the top third or maybe has a whole different section to itself, I want to have a section that shows the top-rated restaurants from each category which can also be changed based on what you want filtered.
 
 Languages/technologies-
-I'm guessing CSS, HTML, JS would be the main language for this website as well as maybe an API that helps with finding the different restaurants and the filtering system.
+I'm guessing CSS, HTML, JS would be the main languages for this website, and an API that helps with finding the different restaurants and the filtering system. The hardest part will probably be the filtering system and displaying the restaurants so anything that helps with that would be beneficial.
